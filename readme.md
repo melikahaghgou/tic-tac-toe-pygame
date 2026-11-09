@@ -27,5 +27,25 @@ Follow these steps to run the game on your computer.
 Make sure that Python is installed along, with the `pygame` library. You can install Pygame using pip:
 
 ```bash
-
 pip install pygame
+```
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/menu.png" width="450" alt="Start Menu">
+  <br>
+  <em>Start Menu & Name Input</em>
+</p>
+
+<p align="center">
+  <img src="assets/game.png" width="450" alt="Gameplay">
+  <br>
+  <em>Interactive Neon Gameplay</em>
+</p>
+
+<p align="center">
+  <img src="assets/winner.png" width="450" alt="Winner Screen">
+  <br>
+  <em>Winner Announcement</em>
+</p>
