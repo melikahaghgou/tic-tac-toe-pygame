@@ -1,35 +1,28 @@
-# Modern Neon Tic-Tac-Toe (Doz)
+# Tic-Tac-Toe (Doz)
 
-A feature-rich modern version of the Tic-Tac-Toe (Doz) game built using Python and Pygame. It has a dark neon style, interactive player name setup, real-time score updates, cell hover effects winning line glowing animations and smooth keyboard movement.
-
----
+I created a two-player Tic-Tac-Toe game using Python and Pygame. I let you choose your names then you take turns placing Xs and Os. I show you who gets three Tic-Tac-Toe marks in a row. I also keep a score record between rounds.
 
 ## Features
 
-- **Modern UI & Neon Theme:** dark look with special color selections for Player X (`#FF4B6E`) and Player O (`#00E5FF`).
+- I let you enter a name for each player before the game starts.
 
-- **Interactive Start Menu:** Custom text input areas with placeholder text, deletion when Backspace is held blinking cursor and keyboard movement (`Up/Down` arrows and `Enter`).
+- I let you play with two players on the computer.
 
-- **Live Scoreboard & Turn Indicator:** Keeps track of scores through rounds. Shows clearly whose turn it is or lets everyone know the winner right away.
+- I show you whose turn it is and I keep track of scores.
 
-- **Winning Path Highlight:** Lights up the winning set of cells when a player wins.
+- I highlight the winning Tic-Tac-Toe combination.
 
-- **Quick Reset:** Clear the board whenever needed using the button on the screen or by pressing the `R` key.
+- I let you start a round by clicking the, on-screen button or by pressing `R`.
 
----
+- I let you use the arrow keys `Tab` or `Enter` to move between the name fields.
 
-## Getting Started & Installation
+## Run the game
 
-Follow these steps to run the game on your computer.
-
-### Prerequisites
-
-Make sure that Python is installed along, with the `pygame` library. You can install Pygame using pip:
+I need Python installed on your computer. I ask you to install Pygame with:
 
 ```bash
 pip install pygame
 ```
-
 ## Screenshots
 
 <p align="center">
